@@ -1,0 +1,16 @@
+body {
+    background-color: red;
+    font-family: "Arial";
+    font-style: "Arial";
+    font-size: 14px;
+}
+
+.title-row {
+    border-style: solid;
+}
+
+
+.navbar> div {
+    border-style: solid;
+    
+}
